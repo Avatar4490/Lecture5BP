@@ -18,7 +18,8 @@ Content/StarterContent/*
 
 #ThirdPerson
 Content/Characters/*
-
+Content/Mannequin/*
+Content/Mannequin/Character/*
 
 Content/FirstPerson/*
 Content/FirstPersonArms
