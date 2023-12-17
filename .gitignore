@@ -1,0 +1,27 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+#Starter Content Prevent Upload
+Content/StarterContent/*
+
+#ThirdPerson
+Content/Characters/*
+
+
+Content/FirstPerson/*
+Content/FirstPersonArms
+Content/FPWeapon/*
+Content/LevelPrototyping/*
+Content/ThirdPerson/*
